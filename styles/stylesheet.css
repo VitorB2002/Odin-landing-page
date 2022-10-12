@@ -10,6 +10,7 @@ body {
     flex-direction: column;
 }
 
+/*Header Styles*/
 .header-container {
     display: flex;
     justify-content: center;
@@ -38,10 +39,33 @@ li {
 a {
     text-decoration: none;
     color: #E5E7EB;
+    font-size: 18px; 
 }
 
 .icon {
     width: auto;
     height: 70px;
     border-radius: 50%;
+}
+
+/*Hero Styles*/
+.hero {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+}
+
+.hero-text-container {
+    width: 450px;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
 }
