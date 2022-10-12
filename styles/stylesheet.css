@@ -31,11 +31,17 @@ ul {
     list-style: none;
 }
 
-.logo {
-    color: #E5E7EB;
+li {
+    padding: 3px;
 }
 
 a {
     text-decoration: none;
     color: #E5E7EB;
+}
+
+.icon {
+    width: auto;
+    height: 70px;
+    border-radius: 50%;
 }
