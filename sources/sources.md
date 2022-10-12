@@ -5,7 +5,7 @@ Image by [Nina Garman](https://pixabay.com/users/billithecat-7996303/) from [Pix
 ## Hero Image
 Image by [Gordon Johnson](https://pixabay.com/users/gdj-1086657/) from [Pixabay](https://pixabay.com/images/id-3244110/)
 ## Photo grid
-Images used in the photo grid
+Images used in the photo grid section
 ### Rock
 Image by [Malachi Witt](https://pixabay.com/users/mwitt1337-889520/) from [Pixabay](https://pixabay.com/images/id-1115265/)
 ### City
@@ -14,3 +14,5 @@ Image by [Artapixel](https://pixabay.com/users/artapixel-8829724/) from [Pixabay
 Image by [Pikurā](https://pixabay.com/users/pikur%C4%81-17746921/) from [Pixabay](https://pixabay.com/images/id-7289203/)
 ### Classical
 Image by [Steve Buissinne](https://pixabay.com/users/stevepb-282134/) from [Pixabay](https://pixabay.com/images/id-1655558/)
+## Quote
+Image by [Gordon Johnson](https://pixabay.com/users/gdj-1086657/) from [Pixabay](https://pixabay.com/images/id-7313911/)
