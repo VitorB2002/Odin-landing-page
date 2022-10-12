@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid red;
+    /*border: 1px solid red;*/
 }
 
 body {
@@ -54,6 +54,7 @@ a {
     display: flex;
     justify-content: center;
     background-color: #1F2937;
+    padding-top: 10px;
 }
 
 .hero-text-container {
@@ -68,22 +69,24 @@ a {
 
 .hero-secondary-text {
     font-size: 18px;
+    padding-top: 5px;
     color: #E5E7EB;
 }
 
 .hero-button {
     background-color: #3882F6;
     color: #F9FAF8;
-    border-radius: 25%;
-    width: 125px;
+    border-radius: 5%;
+    width: 75px;
+    height: 25px;
+    height: auto;
+    margin-top: 5px;
+    margin-left: -3px;
 }
 
 .hero-button-text {
     font-size: 18px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 5px;
 }
 
 .hero-img-container {
