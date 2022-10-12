@@ -46,6 +46,7 @@ a {
     width: auto;
     height: 70px;
     border-radius: 50%;
+    background-color: #F9FAF8;
 }
 
 /*Hero Styles*/
@@ -83,4 +84,15 @@ a {
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.hero-img-container {
+    width: 450px;
+}
+
+.hero-img {
+    width: 450px;
+    height: auto;
+    background-color: white;
+    border-radius: 5%;
 }
