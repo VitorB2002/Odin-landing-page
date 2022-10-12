@@ -99,3 +99,42 @@ a {
     background-color: white;
     border-radius: 5%;
 }
+
+/*Information styles*/
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+.info {
+    
+    width: 800px;
+}
+
+.info-main-text {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.box-grid {
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+}
+
+.box{
+    width: 175px;
+}
+
+.box img {
+    border: 2px solid #3882F6;
+    width: 175px;
+    height: 175px;
+    border-radius: 15%;
+}
