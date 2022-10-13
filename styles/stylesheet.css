@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /*border: 1px solid red;*/
 }
 
 body {
@@ -110,7 +109,6 @@ a {
 }
 
 .info {
-    
     width: 800px;
 }
 
@@ -127,6 +125,7 @@ a {
     display: flex;
     justify-content: space-around;
     width: 800px;
+    padding-bottom: 20px;
 }
 
 .box{
@@ -232,3 +231,19 @@ a {
     width: 150px;
     height: 45px;
 }
+
+/*Footer styles*/
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    height: 75px;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-text {
+    color: #E5E7EB;
+    font-size: 14px;
+    text-align: center;
+}
+
